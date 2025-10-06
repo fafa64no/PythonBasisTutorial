@@ -170,7 +170,7 @@ example_key = "tartomiel"
 if example_key in example_dict:
     print("Key exists")
 else:
-    print("Key doesn't exists")
+    print("Key doesn't exist")
 ```
 
 There's also the possibility to access all keys or all pairs of a dictionary.
