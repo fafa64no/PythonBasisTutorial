@@ -15,7 +15,7 @@ it runs all operations inside the function
 > 
 > Defining a function doesn't execute it.
 > 
-> It is common to define a function but forget to call it,
+> It is common to define a function but to forget calling it,
 > then complaining that nothing happens
 
 ```python
